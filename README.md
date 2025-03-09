@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and sql.
 - 💞️ I’m looking to collaborate on interesting AI/Data Science projects.
 - 📫 How to reach me dseyma310@gmail.com.
-- ⚡ Fun fact: The subject that I am most curious about is the ethics of artificial intelligence.
+- ⚡ Fun fact: The subject that I am currently most curious about is the ethics of artificial intelligence.
 
 <!---
 b2230765034/b2230765034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
